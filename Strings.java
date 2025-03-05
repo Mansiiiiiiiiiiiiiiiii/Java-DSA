@@ -1,7 +1,7 @@
 public class Strings {
     public static void main(String[] args) {
-        String firstName = "Paramvir";
-        String lastName ="Singh";
+        String firstName = "Priyanshi";
+        String lastName =" Gupta";
         String fullName = firstName + " " + lastName;
         System.out.println(fullName);
         System.out.println(fullName.length());
